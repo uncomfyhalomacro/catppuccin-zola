@@ -1,7 +1,7 @@
 name = "catppuccin"
 description = "A soothing pastel theme for Zola"
 license = "MIT"
-homepage = "https://github.com/uncomfyhalomacro/catppuccin-zola"
+homepage = "https://github.com/catppuccin/zola"
 # The minimum version of Zola required
 min_version = "0.8.0"
 # An optional live demo URL
@@ -15,5 +15,5 @@ min_version = "0.8.0"
 
 # The theme author info: you!
 [author]
-name = "socvirnyl estela"
-homepage = "https://github.com/uncomfyhalomacro/catppuccin-zola"
+name = "Socvirnyl Estela"
+homepage = "https://github.com/uncomfyhalomacro"
